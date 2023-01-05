@@ -40,7 +40,20 @@ nav li {
     list-style: none;
     margin-left: 50px;
 }
+
 /*  banner style */
-.banner{
+.banner {
+    display: flax;
+    align-items: center;
     margin: 0 200px;
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 85px;
+}
+
+.banner-sub-title {
+    font-weight: 600;
+    font-size: 45px;
 }
