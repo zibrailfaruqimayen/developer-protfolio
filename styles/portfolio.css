@@ -67,6 +67,7 @@ nav li {
      display: flex;
     align-items: center; 
     margin: 0 200px;
+    justify-content: space-between;
 }
 
 .banner-title {
